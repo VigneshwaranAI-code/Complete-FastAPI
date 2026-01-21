@@ -7,5 +7,4 @@
 
 2. [SQLite CRUD Operations](https://github.com/VigneshwaranAI-code/Complete-FastAPI/tree/main/Connect_to_SQLlite)  
    Connect FastAPI to SQLite and perform Create, Read, Update, and Delete operations.
-tree/main/Connect_to_SQLlite)  
-Connect FastAPI to SQLite and perform Create, Read, Update, and Delete operations.
+
